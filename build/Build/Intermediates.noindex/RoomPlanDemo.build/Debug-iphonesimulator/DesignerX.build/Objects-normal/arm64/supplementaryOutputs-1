@@ -1,0 +1,23 @@
+{
+  "/Users/adison/Programming/RoomPlanDemo-main/RoomPlanDemo/CustomViews/AddFurnitureView/AddFurnitureView.swift" : {
+    "const-values" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AddFurnitureView.swiftconstvalues",
+    "dependencies" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AddFurnitureView.d",
+    "diagnostics" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AddFurnitureView.dia",
+    "object" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AddFurnitureView.o",
+    "swift-dependencies" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AddFurnitureView.swiftdeps"
+  },
+  "/Users/adison/Programming/RoomPlanDemo-main/RoomPlanDemo/CustomViews/AdjustMesurementView/AdjustMesurementView.swift" : {
+    "const-values" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AdjustMesurementView.swiftconstvalues",
+    "dependencies" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AdjustMesurementView.d",
+    "diagnostics" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AdjustMesurementView.dia",
+    "object" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AdjustMesurementView.o",
+    "swift-dependencies" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AdjustMesurementView.swiftdeps"
+  },
+  "/Users/adison/Programming/RoomPlanDemo-main/RoomPlanDemo/CustomViews/AnnotationsDetailsView/AnnotationsDetailsView.swift" : {
+    "const-values" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AnnotationsDetailsView.swiftconstvalues",
+    "dependencies" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AnnotationsDetailsView.d",
+    "diagnostics" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AnnotationsDetailsView.dia",
+    "object" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AnnotationsDetailsView.o",
+    "swift-dependencies" : "/Users/adison/Programming/RoomPlanDemo-main/build/Build/Intermediates.noindex/RoomPlanDemo.build/Debug-iphonesimulator/DesignerX.build/Objects-normal/arm64/AnnotationsDetailsView.swiftdeps"
+  }
+}
